@@ -1,0 +1,13 @@
+.Product{
+display: flex;
+align-items: center;
+border: 2px solid  gray;
+padding: 10px;
+margin-bottom: 15px;
+
+}
+.Product img{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}

@@ -1,0 +1,88 @@
+[
+    {
+        "id": "1",
+        "name": "Samsung",
+        "price": 66855,
+        "ratings": 42,
+        "img": "https://i.ibb.co/pR4szNb/istockphoto-176826358-612x612.jpg"
+      
+      },
+    {
+        "id": "2", 
+        "name": "Apple",
+        "price": 120999,
+        "ratings": 56,
+        "img": "https://i.ibb.co/p3S8QNS/istockphoto-1251414402-612x612.jpg"
+      
+      },
+    {
+        "id": "3",  
+        "name": "LG",
+        "price": 55299,
+        "ratings": 15,
+        "img": "https://i.ibb.co/xXCSnTH/istockphoto-875531074-612x612.jpg"
+      
+      },
+    {
+        "id": "4",  
+        "name": "Walton",
+        "price": 30586,
+        "ratings": 10,
+        "img": "https://i.ibb.co/vzcpNd5/istockphoto-1227552004-612x612.jpg"
+      
+      },
+    {
+        "id": "5",
+        
+        "name": "HP",
+        "price": 52758,
+        "ratings": 47,
+        "img": "https://i.ibb.co/dgXPPDZ/istockphoto-1265279645-612x612.jpg"
+      
+      },
+    {
+        "id": "6",
+        
+        "name": "Lenovo",
+        "price": 35914,
+        "ratings": 25,
+        "img": "https://i.ibb.co/Lxjcc99/istockphoto-1220755507-612x612.jpg"
+      
+      },
+    {
+        "id": "7",
+        
+        "name": "LG",
+        "seller": "Addidas",
+        "price": 49285,
+        "ratings": 65,
+        "img": "https://i.ibb.co/ph0jccT/istockphoto-1042622598-612x612.jpg"
+      
+      },
+    {
+        "id": "8",
+        
+        "name": "Samsung",
+        "price": 85520,
+        "ratings": 74,
+        "img": "https://i.ibb.co/t3LNgbg/istockphoto-961949514-612x612.jpg"
+      
+      },
+    {
+        "id": "9",
+        
+        "name": "Lenovo",
+        "price": 42540,
+        "ratings": 32,
+        "img": "https://i.ibb.co/1qqgZym/istockphoto-528678057-612x612.jpg"
+      
+      }
+]
+
+
+
+
+
+
+
+
